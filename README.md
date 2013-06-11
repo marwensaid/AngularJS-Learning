@@ -34,12 +34,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Fun With AngularJS] (http://devgirl.org/2013/03/21/fun-with-angularjs/)
-* [Building PhoneGap Apps with AngularJS] (http://briantford.com/blog/angular-phonegap.html)
-* [Maintainable Rich Web Applications with AngularJS – Part 1] (http://blog.akquinet.de/2013/01/22/maintainable-rich-web-applications-with-angularjs/)
-* [Maintainable Rich Web Applications with AngularJS – Part 2] (http://blog.akquinet.de/2013/03/21/maintainable-rich-web-applications-with-angularjs-part-2/)
 * [AngularJS Philly ETE Slides] (http://onehungrymind.com/angularjs-philly-ete-slides/)
 * [Everything you need to understand to start with AngularJS] (http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
-* [Google, Twitter & AngularJS (Part 1 of 7)] (http://dailyjs.com/2013/04/11/angularjs-1/)
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
 * [Random Tricks When Using AngularJS] (http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/)
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -47,7 +43,6 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [5 reasons to use AngularJS in the corporate app world] (http://oscarvillarreal.com/2013/05/07/5-reasons-to-use-angularjs-in-the-corporate-app-world/)
 * [Lazy Loading In AngularJS] (http://ify.io/lazy-loading-in-angularjs/)
 * [More AngularJS Magic to Supercharge your Webapp] (http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
-* [Internazionalization (i18n) with AngularJS] (http://blog.brunoscopelliti.com/internazionalization-i18n-with-angularjs)
 * [HashKeyCopier - An AngularJS Utility Class For Merging Cached And Live Data] (http://www.bennadel.com/blog/2472-HashKeyCopier-An-AngularJS-Utility-Class-For-Merging-Cached-And-Live-Data.htm)
 * [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS] (http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
 * [Grouping Nested ngRepeat Lists In AngularJS] (http://www.bennadel.com/blog/2456-Grouping-Nested-ngRepeat-Lists-In-AngularJS.htm)
@@ -62,6 +57,18 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Sharing Data, State and Models on AngularJS: Alternatives, comparison and my solution] (http://www.blogeek.com.ar/2013/05/01/sharing-data-state-on-angularjs-alternatives-comparison-and-my-solution/)
 * [Authentication in Single Page Applications with Angular.js](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
 * [AngularJS Best Practices: I’ve Been Doing It Wrong! (3 Part Series)] (http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/)
+* [Using AngularJS and D3 to Create a WordCloud Directive] (http://spiiice.net/using-angularjs-and-d3-to-create-a-wordcloud-directive/)
+* [AngularJS and SVG] (http://dailyjs.com/2013/06/07/angular-svg/)
+* [Angular.js and IE8 caching] (http://www.jefclaes.be/2013/06/angularjs-and-ie8-caching.html)
+* [AngularJS and TypeScript] (http://notebookheavy.com/2013/05/22/angularjs-and-typescript/)
+* [What To Know To Be An Expert in AngularJS] (http://codigovivo.com/2013/06/09/what-to-know-to-be-an-expert-in-angularjs/)
+* [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
+* [AngularJS and SEO] (http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
+
+## Multipart Articles
+* Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
+* Maintainable Rich Web Applications with AngularJS: [Part 1] (http://blog.akquinet.de/2013/01/22/maintainable-rich-web-applications-with-angularjs/), [Part 2] (http://blog.akquinet.de/2013/03/21/maintainable-rich-web-applications-with-angularjs-part-2/)
+* Google, Twitter & AngularJS: [1: Google, Twitter, and AngularJS] (http://dailyjs.com/2013/04/11/angularjs-1/), [2: Let's Make a Feed Reader] (http://dailyjs.com/2013/04/18/angularjs-2/), [3: Rendering Feeds] (http://dailyjs.com/2013/04/25/angularjs-3/), [4: Managing Feeds] (http://dailyjs.com/2013/05/09/angularjs-4/), [5: Tests] (http://dailyjs.com/2013/05/16/angularjs-5/), [6: Adding Dependencies] (http://dailyjs.com/2013/05/30/angularjs-6/), [7: Form Validation] (http://dailyjs.com/2013/06/06/angularjs-7/)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
@@ -71,6 +78,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Unbinding $watch() Listeners In AngularJS] (http://www.bennadel.com/blog/2480-Unbinding-watch-Listeners-In-AngularJS.htm)
 * [Accessing $scope On The DOM Using AngularJS] (http://www.bennadel.com/blog/2457-Accessing-scope-On-The-DOM-Using-AngularJS.htm)
 * [Directive Link, $observe, And $watch Functions Execute Inside An AngularJS Context] (http://www.bennadel.com/blog/2449-Directive-Link-observe-And-watch-Functions-Execute-Inside-An-AngularJS-Context.htm)
+* [Hailing All Frequencies – Communicating in AngularJS with the Pub/Sub Design Pattern] (http://codingsmackdown.tv/blog/2013/04/29/hailing-all-frequencies-communicating-in-angularjs-with-the-pubsub-design-pattern/)
+* [Nested Scopes in AngularJS] (http://jimhoskins.com/2012/12/14/nested-scopes-in-angularjs.html)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -89,6 +98,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Exploring Directive Controllers, Compiling, Linking, And Priority In AngularJS] (http://www.bennadel.com/blog/2447-Exploring-Directive-Controllers-Compiling-Linking-And-Priority-In-AngularJS.htm)
 * [Using Controllers In Directives In AngularJS] (http://www.bennadel.com/blog/2446-Using-Controllers-In-Directives-In-AngularJS.htm)
 * [Angular.js Directives with JSON arguments] (http://www.grobmeier.de/angular-js-directives-with-json-arguments-08012013.html)
+* [The Hitchhiker’s Guide to the Directive] (http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
+* [Creating a Simple AngularJS Directive] (http://codingsmackdown.tv/blog/2012/12/14/creating-a-simple-angularjs-directive/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -111,20 +122,27 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Mixing Static And Dynamic Data In An AngularJS Select Menu] (http://www.bennadel.com/blog/2452-Mixing-Static-And-Dynamic-Data-In-An-AngularJS-Select-Menu.htm)
 * [Angular.js: ng-select and ng-options] (http://www.grobmeier.de/angular-js-ng-select-and-ng-options-21112012.html)
 * [Angular.js: Autocomplete and enabling a form with $watch and blur] (http://www.grobmeier.de/angular-js-autocomplete-and-enabling-a-form-with-watch-and-blur-19112012.html)
+* [Create AngularJS Directives to Remove Duplicate Code in Forms] (http://kazimanzurrashid.com/posts/create-angularjs-directives-to-remove-duplicate-codes-in-form)
 
 ## Code Organization
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps.html)
 * [Code Organization in Large AngularJS and JavaScript Applications] (http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
 * [Proposed Angular’s WebPage structure] (http://www.blogeek.com.ar/2013/05/18/proposed-angulars-project-structure/)
 * [The right way of coding AngularJS: How to organize a regular WebApp. Basic Example] (http://www.blogeek.com.ar/2013/03/23/the-right-way-of-coding-angularjs-how-to-organize-a-regular-webapp/)
+* [AngularJS Modules for Great Justice] (http://codingsmackdown.tv/blog/2013/04/19/angularjs-modules-for-great-justice/)
 
 ## Testing
 * [Full-Spectrum Testing with AngularJS and Testacular] (http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html)
+* [Mocking Promises in Unit Tests] (http://codingsmackdown.tv/blog/2012/12/28/mocking-promises-in-unit-tests/)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
 * [Restangular: New AngularJS framework to handle Rest API Restful Resources properly and easily] (http://www.blogeek.com.ar/2013/04/09/restangular-new-angular-framework-to-handle-restful-resources-properly-and-easily/)
 * [New features on Restangular: the ultimate Rest API client for Angular] (http://www.blogeek.com.ar/2013/04/26/new-features-on-restangular-the-ultimate-rest-api-client-for-angularjs/)
+
+## Localization
+* [Localizing Your AngularJS Apps] (http://codingsmackdown.tv/blog/2013/04/23/localizing-your-angularjs-apps-update/)
+* [Internazionalization (i18n) with AngularJS] (http://blog.brunoscopelliti.com/internazionalization-i18n-with-angularjs)
 
 ## UI Stuff
 * [Angular UI suite (including some subprojects)](http://angular-ui.github.io/)
@@ -133,13 +151,16 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [A Reusable AngularJS Popup Dialog Service] (http://www.befundoo.com/blog/angularjs-popup-dialog/)
 * [Creating A Custom Show / Hide Directive In AngularJS] (http://www.bennadel.com/blog/2440-Creating-A-Custom-Show-Hide-Directive-In-AngularJS.htm)
 * [Bootstrap Tabs with Angular.js] (http://www.grobmeier.de/bootstrap-tabs-with-angular-js-25112012.html)
+* [Using Response Interceptors to Show and Hide a Loading Widget] (http://codingsmackdown.tv/blog/2013/01/02/using-response-interceptors-to-show-and-hide-a-loading-widget/)
 
 ## Hosted Backends 
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
 * [Realtime database for your Angular app with Firebase] (https://github.com/firebase/angularFire)
 * [CRUD backend for Angular with Backlift] (https://blog.backlift.com/entry/angular-tut1)
 
-
+## PhoneGap
+* [Quick Start Guide to PhoneGap+AngularJS] (http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
+* [Building PhoneGap Apps with AngularJS] (http://briantford.com/blog/angular-phonegap.html)
 
 ## Text editor bundles
 
